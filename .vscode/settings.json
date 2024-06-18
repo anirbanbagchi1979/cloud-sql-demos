@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "CloudSQL-PostgreSQL",
+            "name": "argolis-csql-pg",
+            "instanceConnectionName": "my-alloydb-project-bagchi:us-central1:petclinic-pg",
+            "database": "postgres",
+            "username": "postgres",
+            "password": "bagchi4You"
+        }
+    ]
+}
